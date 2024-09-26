@@ -1,0 +1,25 @@
+#calci{
+    margin-left: 34px;
+    background-color: rgb(11, 167, 167);
+}
+
+
+#calculator{
+    border: 1px solid rgb(16, 14, 14);
+    border-radius: 3px;
+    width: 200px;
+    background-color: cadetblue;
+}
+#display{
+margin: 10px;
+
+
+}
+.button{
+    background-color: rgb(140, 222, 8);
+    margin-left: 15px;
+    height: 44px;
+    width:44px;
+    text-align: center;
+}
+ 
